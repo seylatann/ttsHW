@@ -1,0 +1,19 @@
+body {background-color: black; font-family: sans-serif; font-weight: bold;}
+
+.search {filter: invert(100%); background-color: cyan; position: absolute; border-radius: 0px; display: inline; padding: 6px; margin-top: 33px; }
+
+
+.input {position: justified; border-radius: 0; border: none; display: inline; height:29px; width: 18%;}
+
+.button_container {background color:black}
+
+.button { padding-top: 1%; top: 10px; height:69%; display: inline-block;color: white; padding-right: 15px; margin-right: 50px}
+/*.button {color: white; display: inline-block; background-color: black; padding-top: 7px; }*/
+
+.signin {position: absolute; top:8px; right:16px;color:white;padding-top: 25px;font-family: sans-serif; font-weight: bold;}
+
+.cart {filter:invert(100%); position: absolute; top:25px; width: 3%;right: 16px; padding-top: 40px}
+
+.viewcart {color: white;position: absolute; top: 25px; right: 60px; padding-top:50px}
+
+.logo {font-size: 30px; font-family: sans-serif; height: 50px; width: 5%;background-color:red; font-weight: lighter;padding-left: 6px; padding-top: 25px; padding-bottom: 10px; padding-right: 5px}
